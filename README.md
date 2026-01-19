@@ -2,7 +2,7 @@
 
 ### Premium Proximity Voice Chat for Hytale
 
-> **Developed by MoonWiRaja @ KRACKEDDEVS**
+> **Developed by Rmoom @ KRACKEDDEVS**
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Hytale](https://img.shields.io/badge/game-Hytale-orange)
 
