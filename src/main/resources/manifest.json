@@ -1,0 +1,34 @@
+{
+  "Group": "dev.kracked.voice",
+  "Name": "KrackedVoice",
+  "Version": "1.0.0",
+  "Authors": [
+    {
+      "Name": "MoonWiRaja KRACKEDDEVS",
+      "Email": "contact@krackeddevs.com",
+      "Url": "https://github.com/KrackedDevs"
+    }
+  ],
+  "Website": "https://github.com/KrackedDevs",
+  "Main": "dev.kracked.voice.KrackedVoicePlugin",
+  "ServerVersion": "*",
+  "Client": {
+    "Scripts": [
+      "client/scripts/voice_client.js"
+    ],
+    "UI": [
+      "client/ui/voice_hud.json",
+      "client/ui/voice_settings.json"
+    ],
+    "Textures": [
+      "client/textures/icons/mic_on.svg",
+      "client/textures/icons/mic_off.svg",
+      "client/textures/icons/mic_muted.svg",
+      "client/textures/icons/speaker_on.svg",
+      "client/textures/icons/speaker_off.svg",
+      "client/textures/icons/connection_good.svg",
+      "client/textures/icons/connection_bad.svg"
+    ],
+    "Pack": "client/pack.json"
+  }
+}

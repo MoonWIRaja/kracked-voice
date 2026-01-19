@@ -1,0 +1,32 @@
+{
+  "id": "voice_hud",
+  "type": "hud",
+  "position": { "anchor": "bottom-left", "offsetX": 20, "offsetY": -20 },
+  "size": { "width": 40, "height": 40 },
+  "visible": true,
+  "elements": [
+    {
+      "id": "mic_status",
+      "type": "panel",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0.4)",
+        "borderRadius": "50%",
+        "border": "2px solid rgba(138, 43, 226, 0.6)"
+      },
+      "children": [
+        {
+          "id": "mic_icon",
+          "type": "image",
+          "src": "textures/icons/mic_off.png",
+          "position": { "anchor": "center" },
+          "size": { "width": 20, "height": 20 },
+          "states": {
+            "talking": { "src": "textures/icons/mic_on.png", "style": { "filter": "drop-shadow(0 0 5px #8a2be2)" } },
+            "muted": { "src": "textures/icons/mic_muted.png" },
+            "default": { "src": "textures/icons/mic_off.png" }
+          }
+        }
+      ]
+    }
+  ]
+}

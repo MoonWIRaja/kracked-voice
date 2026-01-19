@@ -1,0 +1,34 @@
+{
+  "id": "kracked_voice",
+  "name": "KrackedVoice",
+  "version": "1.0.0",
+  "description": "Premium proximity voice chat by MoonWiRaja KRACKEDDEVS",
+  "author": "MoonWiRaja KRACKEDDEVS",
+  "assets": {
+    "ui": [
+      "ui/voice_hud.json",
+      "ui/voice_settings.json"
+    ],
+    "scripts": [
+      "scripts/voice_client.js"
+    ],
+    "textures": [
+      "textures/icons/mic_on.png",
+      "textures/icons/mic_off.png",
+      "textures/icons/mic_muted.png",
+      "textures/icons/speaker_on.png",
+      "textures/icons/speaker_off.png",
+      "textures/icons/connection_good.png",
+      "textures/icons/connection_bad.png"
+    ]
+  },
+  "client": {
+    "autoConnect": true,
+    "voicePort": 3012,
+    "keybinds": {
+      "pushToTalk": "V",
+      "toggleMute": "M",
+      "openSettings": "O"
+    }
+  }
+}
