@@ -136,4 +136,4 @@ Copyright © 2026 **MoonWiRaja KRACKEDDEVS**
 *   **GitHub**: [KrackedDevs/kracked-voice](https://github.com/MoonWiRaja/hytale-voice)
 *   **Email**: _Coming Soon
 *   **Discord**: [_Krackeddevs Dc_](https://discord.gg/5DPRhGpXxP)
-*   **Web**: [Krackeddevs Web] (https://krackeddevs.com)
+*   **Web**: [Krackeddevs Web](https://krackeddevs.com)
