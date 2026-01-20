@@ -2,7 +2,7 @@
 
 ### Premium Proximity Voice Chat for Hytale
 
-> **Developed by Rmoom @ KRACKEDDEVS**
+> **Developed by MoonWiRaja @ KRACKEDDEVS**
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Hytale](https://img.shields.io/badge/game-Hytale-orange)
 
@@ -133,6 +133,7 @@ Copyright © 2026 **MoonWiRaja KRACKEDDEVS**
 
 ## 📬 Support
 
-*   **GitHub**: [KrackedDevs/kracked-voice](https://github.com/KrackedDevs/hytale-voice)
-*   **Email**: contact@krackeddevs.com
-*   **Discord**: _Coming Soon_
+*   **GitHub**: [KrackedDevs/kracked-voice](https://github.com/MoonWiRaja/hytale-voice)
+*   **Email**: _Coming Soon
+*   **Discord**: [_Krackeddevs Dc_](https://discord.gg/5DPRhGpXxP)
+*   **Web**: [Krackeddevs Web] (https://krackeddevs.com)
